@@ -1,0 +1,23 @@
+body {
+    font:20px arial;
+}
+
+.navbar {
+    background-color: brown;
+}
+.quemsomos{
+    background-color: burlywood;
+}
+
+.margin {
+    padding-top:40px ;
+    padding-bottom: 40px;
+}
+.team{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.parceiros {
+    background-color:#EC8F7C ;
+}
